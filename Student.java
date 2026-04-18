@@ -1,4 +1,6 @@
-//example of aggregation - in java aggregation is a special form of association which has a "has-a" relationship. It represents a relationship where one class contains a reference to another class, but the contained class can exist independently of the container class.
+/*example of aggregation - in java aggregation is a special form of association
+which has a "has-a" relationship. It represents a relationship where one class 
+contains a reference to another class, but the contained class can exist independently of the container class. */
 class Subject {
     private String subjectName;
 
