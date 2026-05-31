@@ -21,7 +21,7 @@ class Cat extends Animal {
     }
 }
 
-public class RunTimePoly {
+public class RunTimePolymorphism {
 
     public static void main(String[] args) {
 
